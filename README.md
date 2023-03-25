@@ -34,4 +34,4 @@ I'm a software engineer and computer science graduate from Linnaeus University i
 
 ## 💬 My top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krukle&hide=c,jupyter%20notebook,purebasic,css,html,cmake,tex,gherkin)](https://github.com/krukle/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krukle&hide=c,jupyter%20notebook,purebasic,css,html,cmake,tex,gherkin&hide_progress=true)](https://github.com/krukle/github-readme-stats)
