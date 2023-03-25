@@ -30,5 +30,5 @@ I'm a software engineer and computer science graduate from Linnaeus University i
 
 ## ⭐ My GitHub Stats
 
-[![Christoffer's GitHub stats](https://github-readme-stats.vercel.app/api?username=krukle&show_icons=true&theme=radical)](https://github.com/krukle/github-readme-stats)
+[![Christoffer's GitHub stats](https://github-readme-stats.vercel.app/api?username=krukle&show_icons=true&theme=merko)](https://github.com/krukle/github-readme-stats)
 
